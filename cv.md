@@ -57,18 +57,18 @@ I have necessary qualities for work with big amount of information and fast lear
 ---
 
 ---
+#### Current employment - telecommunication systems.
+**Place of work:** *OOO "Alpindustiya"*
+
+**Position:** 
+*Engineer of telecommunication systems*;
+
 ####English level:
  A2-B1 (pre intermediate - intermediate);
 
 *I finished IH (pre intermediate P2) course in 2017.
 I regularly practice English with my tutor and I learn English by myself
  trough the watching some movies and reading some topics in English.*
- 
-#### Current employment - telecommunication systems.
-**Place of work:** *OOO "Alpindustiya"*
-
-**Position:** 
-*Engineer of telecommunication systems*;
 ---
 
 
