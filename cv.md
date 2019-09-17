@@ -31,6 +31,30 @@ But I will do everything what possible to do to achieve necessary skills.
 I have necessary qualities for work with big amount of information and fast learning.
 ---
 
+---
+###My skills:
+* JS core;
+* CSS3 (floats, flexes);
+* HTML5 (semantic html, BEM);
+* Preprocessors (SASS,SCSS);
+* Git Basics;
+* Gulp
+
+###Experience:
+
+* Coding tasks by the Codewars,
+ a few landing pages and studying projects (html and css only).
+* Training  by solving tasks after each topic on https://learn.javascript.ru/
+* Training html and css on in html-academy and codecademy:
+*[codewars](https://www.codewars.com/users/staskorotkiy92),*
+*[html-academy](https://htmlacademy.ru/profile/id206288),*
+*[codecademy](https://www.codecademy.com/profiles/StasKorotkiy92).*
+
+###Education:
+
+1. High state college of communication. Graduated in 2012. Qualification: technician of communication networks.
+2. Belarusian state university of informatics and radio electronics. Graduated in 2018. Qualification:  engineer of info communication systems.
+---
 
 
 
