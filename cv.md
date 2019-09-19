@@ -1,15 +1,18 @@
-#Stanislau Karotki
+# Stanislau Karotki
 
-###My contacts:
+### My contacts:
 
 ---
+
 * **Email:** *staskorotkiy92@gmai.com;*
 * **Mobile phone number:** *+375293374478;*
 * **Skype:** *stas_korotkiy;*
+
 ---
 
 ---
-###My goal
+
+### My goal
  
 **It is** to become a web developer and to get a job in "Epam Systems". 
 
@@ -29,10 +32,12 @@ I have been learning web technologies for a year and I understand,
 those are complicated subjects and activity scope. 
 But I will do everything what possible to do to achieve necessary skills.
 I have necessary qualities for work with big amount of information and fast learning.
+
 ---
 
 ---
-###My skills:
+
+### My skills:
 * JS core;
 * CSS3 (floats, flexes);
 * HTML5 (semantic html, BEM);
@@ -40,7 +45,7 @@ I have necessary qualities for work with big amount of information and fast lear
 * Git Basics;
 * Gulp
 
-###Experience:
+### Experience:
 
 * Coding tasks by the Codewars,
  a few landing pages and studying projects (html and css only).
@@ -50,25 +55,30 @@ I have necessary qualities for work with big amount of information and fast lear
 *[html-academy](https://htmlacademy.ru/profile/id206288),*
 *[codecademy](https://www.codecademy.com/profiles/StasKorotkiy92).*
 
-###Education:
+### Education:
 
 1. High state college of communication. Graduated in 2012. Qualification: technician of communication networks.
 2. Belarusian state university of informatics and radio electronics. Graduated in 2018. Qualification:  engineer of info communication systems.
+
 ---
 
 ---
+
 #### Current employment - telecommunication systems.
+
 **Place of work:** *OOO "Alpindustiya"*
 
 **Position:** 
 *Engineer of telecommunication systems*;
 
-####English level:
+#### English level:
+
  A2-B1 (pre intermediate - intermediate);
 
 *I finished IH (pre intermediate P2) course in 2017.
 I regularly practice English with my tutor and I learn English by myself
  trough the watching some movies and reading some topics in English.*
+ 
 ---
 
 
