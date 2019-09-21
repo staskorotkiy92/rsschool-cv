@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    color: #333;
+    font-size: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+.wrapper-inner {
+    margin: 0 auto;
+    max-width: 1024px;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAMAAAApB0NrAAAABlBMVEX///+pqalTpKl9AAAAAnRSTlMAGovxNEIAAAAdSURBVDjLY2AAAUaG4UYxDDsfjfp91O+jfqfE7wCzpQCw/dq+qQAAAABJRU5ErkJggg==");
+
+}
+
+.header {
+    text-align: center;
+    margin: 0;
+    padding: 15px 0 15px 0;
+    background-color: azure;
+}
+
+.photo {
+    max-height: 400px;
+    width: 100%;
+}
+
+.column {
+    float: left;
+}
+
+.column-2 {
+    width: 50%;
+}
+
+.column-3 {
+    width: 33.333333%;
+}
+
+.clearfix::after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.skill-info {
+    font-size: 1.5em;
+    padding-left: 30px;
+}
+
+.skills {
+    margin: 0;
+    font-size: 1em;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.skill-list {
+    margin: 0;
+}
+
+.skill-item {
+    margin: 15px 0 15px 0;
+}
+
+.skill-item:last-child {
+    margin-bottom: 0;
+}
+
+.my-goal-description {
+    font-style: italic;
+}
+
+.contact-info {
+    text-align: center;
+    vertical-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.contact-info:first-child,
+.contact-info:last-child {
+    padding-top: 10px;
+}
+
+.employment,
+.english {
+    font-weight: bold;
+}
+
+.footer {
+    padding: 15px 0 15px 0;
+    background-color: aquamarine;
+}
+
